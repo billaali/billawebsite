@@ -1,0 +1,17 @@
+body{
+background-color: white;
+padding: 50px;
+margin-bottom: 50px; 
+height: 100ph;
+text-align: center;
+
+}
+form{
+    background: #666;
+    height:300px;
+    width: 300px; 
+    border-radius: 10px;
+}
+input{
+    cursor: pointer;
+}
